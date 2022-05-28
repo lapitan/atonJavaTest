@@ -1,5 +1,9 @@
 import java.util.concurrent.atomic.AtomicInteger;
 
+/*
+В этом классе содержится сама песня, а также номер строки, которая сейчас поется.
+ */
+
 public class Song {
 
     public String [][] lyrics={
